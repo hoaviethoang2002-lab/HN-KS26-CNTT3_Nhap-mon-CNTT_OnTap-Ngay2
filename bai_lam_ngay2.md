@@ -2,7 +2,7 @@
 
 - **Họ tên: Hoa Việt Hoàng**
 - **Lớp:CNTT3**
-- **Link repository:**
+- **Link repository:https://github.com/hoaviethoang2002-lab/HN-KS26-CNTT3_Nhap-mon-CNTT_OnTap-Ngay2.git**
 - **Hệ điều hành (Windows/macOS): Window**
 
 ## Bài 1. Lọc log thủ công
