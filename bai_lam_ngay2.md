@@ -87,7 +87,7 @@ Get-Content logs/access.log | Select-String "ERROR" >> logs/tong_hop_ngay2.txt
 ## Bài 5. Câu hỏi ngắn
 
 - **a)>: Ghi đè nội dung cũ của file hoặc tạo file mới nếu chưa tồn tại.
->>: Nối thêm nội dung vào cuối file, giữ nguyên nội dung đã có.**
+- >>: Nối thêm nội dung vào cuối file, giữ nguyên nội dung đã có.**
 - **b)File tong_hop_ngay2.txt sẽ bị ghi đè, khiến tiêu đề ban đầu bị mất và file chỉ còn các dòng ERROR được lọc ra.**
 - **c)Đường dẫn tương đối giúp dự án dễ di chuyển và chạy trên máy khác mà không cần sửa đường dẫn theo tên người dùng hoặc vị trí thư mục cụ thể.**
 
